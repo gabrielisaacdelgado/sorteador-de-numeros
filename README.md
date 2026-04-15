@@ -9,3 +9,5 @@ Neste projeto, desenvolvi uma aplicação que sorteia números aleatórios dentr
 - JavaScript - Lógica de programação e funcionalidades
 - Live Server - Servidor local para desenvolvimento
 - Git & GitHub - Controle de versão e repositório
+
+<img width="1920" height="910" alt="{238CA893-4105-42E1-AE66-95A60F5B1A31}" src="https://github.com/user-attachments/assets/bc63e1fb-8ecc-4b8e-a553-5c8d6bbb7093" />
